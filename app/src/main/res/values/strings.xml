@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CompleteJokeApp2021</string>
+    <string name="test">ग्वार फली ₹100 किलो…सोचो,
+ पढी लिखी होती तो…
+ कितना भाव खाती।———–काली मिर्च ₹1000 में एक किलोसोचो
+ अगर
+ गोरी होती तो…
+ कितना भाव खाती…. ———–हमने तो
+ अब सोचना ही छोड़ दिया,जब से
+ विद्या बालन कहने लगी हैकी…
+ “जहां सोच वहा शौचालय !”</string>
+    <string name="titlename">this is new title</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
